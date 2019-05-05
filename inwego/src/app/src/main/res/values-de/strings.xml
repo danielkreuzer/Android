@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_item_map">Karte</string>
+    <string name="menu_item_routes">Routen</string>
+    <string name="menu_item_settings">Einstellungen</string>
+    <string name="prefs_title_general">Allgemein</string>
+    <string name="prefs_title_about">Über uns</string>
+    <string name="prefs_send_drive_off_sms">Nachricht beim Losfahren versenden</string>
+    <string name="prefs_send_drive_off_sms_summary">App sendet eine \"Ich bin auf dem Weg\" Nachricht wenn die Route gestartet wird</string>
+    <string name="prefs_min_before_sms">Fahrzeit zur nächsten Person</string>
+    <string name="prefs_min_before_sms_summary">Wie viele Minuten vor dem Erreichen der nächsten Person soll die Nachricht versendet werden?</string>
+    <string name="destination">Zielort</string>
+    <string name="add_waypoint">Wegpunkt hinzufügen</string>
+    <string name="no_waypoints">Keine Wegpunkte verfügbar</string>
+    <string name="specify_contact">Bitte Kontakt angeben!</string>
+    <string name="save_route">Route speichern</string>
+    <string name="enter_route_name">Geben Sie einen Namen für die Route ein</string>
+    <string name="route_name">Name der Route</string>
+    <string name="no_routes">Keine Routen verfügbar</string>
+    <string name="activate_location_title">Bitte die Standortdienste aktivieren!</string>
+    <string name="active_location_message">Auf OK tippen, um die Einstellungen aufzurufen</string>
+    <string name="delete_route_title">Route entfernen</string>
+    <string name="delete_route_message">Wollen Sie wirklich die Route löschen?</string>
+    <string name="next_waypoint_in">Nächster Wegpunkt in:</string>
+    <string name="destination_in">Zielort in:</string>
+    <string name="QuitRoute">Wollen Sie wirklich die aktuelle Route abbrechen?</string>
+    <string name="minutesLabel">Min.</string>
+    <string name="DriveStartedStart">Eine Fahrt mit Inwego wurde gestartet, Ihr Fahrer wird Sie erreichen in ca.</string>
+    <string name="DriveStartedEnd">und Sie werden Ihren Zielort erreichen in ca.</string>
+    <string name="InwegoReminder">"Inwego Erinnerung: Ihr Fahrer kommt an in ca. "</string>
+    <string name="StartSmsSent">Start SMS versendet!</string>
+    <string name="SmsSent">SMS wurde versendet an</string>
+</resources>

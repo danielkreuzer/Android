@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Inwego</string>
+    <string name="google_maps_key"></string>
+    <!-- menu items -->
+    <string name="menu_item_map">Map</string>
+    <string name="menu_item_routes">Routes</string>
+    <string name="menu_item_settings">Settings</string>
+    <!-- setting keys - DO NOT MODIFY IN OTHER LANGUAGES -->
+    <string name="prefs_key_send_drive_off_sms">send_sms</string>
+    <string name="prefs_key_min_before_sms">min_before_sms</string>
+    <!-- setting entries -->
+    <string name="prefs_title_general">General</string>
+    <string name="prefs_title_about">About</string>
+    <string name="prefs_send_drive_off_sms">Send drive off message</string>
+    <string name="prefs_send_drive_off_sms_summary">App sends a \"I\'m on my way\" message when start driving</string>
+    <string name="prefs_min_before_sms">Distance to next person</string>
+    <string name="prefs_min_before_sms_summary">How many minutes should the SMS be sent, before collecting the next
+        person?
+    </string>
+    <string name="prefs_made_from_summary">Dominik Aigner / Daniel Kreuzer</string>
+    <string name="prefs_made_with_summary">Made in Hagenberg/Austria with ❤, ☕ and 🍺</string>
+
+    <!-- MapFragment entries -->
+    <string name="destination">Destination</string>
+    <string name="add_waypoint">Add waypoint</string>
+    <string name="no_waypoints">No waypoints available</string>
+    <string name="specify_contact">Please specify contact!</string>
+    <string name="save_route">Save route</string>
+    <string name="enter_route_name">Please enter a name for the route</string>
+    <string name="route_name">Name of the route</string>
+    <!-- RoutesFragment entries -->
+    <string name="no_routes">No routes available</string>
+    <string name="activate_location_title">Please activate location</string>
+    <string name="active_location_message">Click ok to go to settings else exit.</string>
+    <string name="delete_route_title">Delete route</string>
+    <string name="delete_route_message">Do you really want to delete the route?</string>
+    <string name="next_waypoint_in">Next waypoint in:</string>
+    <string name="destination_in">Destination in:</string>
+    <string name="QuitRoute">Do you really want to quit the current route?</string>
+    <string name="minutesLabel">mins</string>
+    <string name="NoDestinationLeft">--</string>
+    <string name="DriveStartedStart">Inwego drive started, your driver will arrive in about</string>
+    <string name="DriveStartedEnd">and you will arrive on your destination in about</string>
+    <string name="InwegoReminder">Inwego reminder, your driver arrives in about</string>
+    <string name="SmsSent">SMS sent to</string>
+    <string name="StartSmsSent">Start SMS sent!</string>
+</resources>
